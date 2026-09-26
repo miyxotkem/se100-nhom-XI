@@ -7,7 +7,7 @@
 | Tên | GitHub | Chủ trì mốc |
 |---|---|---|
 | Hồ Thịnh Phát | | M1: Yêu cầu |
-| | | M2: Mô hình hoá |
+| Nguyễn Trần Phương Vy | | M2: Mô hình hoá |
 | | | M3–M4: Thiết kế |
 | | | M5: Giao hàng |
 
@@ -33,7 +33,7 @@ AGENTS.md     ràng buộc kiến trúc cho agent đọc — viết ở M4
 
 | Mốc | Hạn | Nộp gì | CI kiểm thêm |
 |---|---|---|---|
-| M0 | CN tuần 2 | README, đề tài, `docs/cau-hoi-khach-hang.md` (≥ 3 câu) | 4 người có commit |
+| M0 | CN tuần 2 | README, đề tài, `docs/cau-hoi-khach-hang.md` (≥ 3 câu) | 3 người có commit |
 | V1 | CN tuần 4 | Hệ thống chạy, `docs/hoi-cuu-vong1.md`, ai-log | Giảng viên kiểm tay, không tính điểm |
 | M1 | CN tuần 5 | `docs/yeu-cau.md` | ≥ 3 tác nhân, ≥ 6 FR, ≥ 3 NFR có số, ≥ 1 BR |
 | M2 | CN tuần 7 | `diagrams/use-case.mmd` (≥ 5 UC), `docs/dac-ta-UC-*.md` ×3, `diagrams/seq-*.mmd` ×2 | Mermaid parse được |
